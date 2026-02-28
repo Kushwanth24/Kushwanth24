@@ -1,61 +1,102 @@
-Hi, I’m Kushwanth 👋
+<div align="center">
 
-MS Computer Science student | Backend & Cloud Engineer
-Building scalable distributed systems with Python, .NET, AWS, and Azure.
+# Hi, I'm Kushwanth Reddy 👋
+### Full-Stack Developer · Building scalable products from idea to production
 
-About Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kushwanthreddy-puchakayala/)
+/[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-/badge&logo=firefox&logoColor=white)](https://yourportfolio.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pkushwanthreddy@gmail.com)
 
-Backend-focused engineer with strong experience in microservices and cloud infrastructure
+</div>
 
-Built high-throughput APIs handling 1M+ requests/day
+---
 
-Experienced with AWS, Azure, Kubernetes, PostgreSQL, Redis
+## 👨‍💻 About Me
 
-Strong interest in distributed systems and system design
+I'm a Full-Stack Developer with a passion for crafting clean, efficient, and user-centric applications. I specialize in bridging the gap between thoughtful UI design and robust backend architecture — delivering products that are both beautiful and performant.
 
-Tech Stack
+- 🔭 Currently working on **[Your Current Project]**
+- 🌱 Exploring **[Something you're learning, e.g., WebAssembly / AI integrations]**
+- 💼 Open to **freelance projects and full-time opportunities**
+- 📍 Based in **[Boston, MA]**
 
-Languages
-Python · C# · JavaScript · TypeScript · SQL · C++
+---
 
-Backend
-FastAPI · ASP.NET Core · Node.js · REST APIs · Microservices
+## 🛠️ Tech Stack
 
-Cloud & DevOps
-AWS (EC2, RDS, Lambda, ElastiCache)
-Azure (AKS, Azure SQL, CosmosDB)
-Docker · Kubernetes · Terraform · CI/CD
+**Frontend**
 
-Databases
-PostgreSQL · MongoDB · Redis · Azure SQL
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=flat-square&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white)
 
-Featured Projects
-1. Scalable Backend Platform
+**Backend**
 
-High-performance REST APIs built with FastAPI and PostgreSQL.
-Optimized queries reducing latency by 60%.
-Implemented Redis caching for performance gains.
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB)
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
 
-2. Cloud-Native Microservices
+**Database & Cloud**
 
-.NET Core microservices deployed on Azure Kubernetes Service.
-Handled 2.5M+ daily transactions with 99.97% uptime.
-Infrastructure provisioned using Terraform.
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?style=flat-square&logo=redis&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
 
-3. Distributed Systems Experiments
+---
 
-Custom implementations of caching strategies, concurrency control, and load balancing patterns.
+## 🚀 Featured Projects
 
-What I’m Currently Working On
+### 🔹 [Project One](https://github.com/yourhandle/project-one)
+> A short, compelling one-liner about what this project does and the problem it solves.
 
-Improving system design depth
+`React` `Node.js` `PostgreSQL` `Docker`
 
-Exploring distributed data structures
+- ✅ Feature or impact highlight #1
+- ✅ Feature or impact highlight #2
+- ✅ Feature or impact highlight #3
 
-Building production-grade cloud architectures
+---
 
-Connect With Me
+### 🔹 [Project Two](https://github.com/yourhandle/project-two)
+> A short, compelling one-liner about what this project does and the problem it solves.
 
-LinkedIn: https://linkedin.com/in/your-link
+`Next.js` `GraphQL` `MongoDB` `AWS`
 
-Email: your-email@example.com
+- ✅ Feature or impact highlight #1
+- ✅ Feature or impact highlight #2
+- ✅ Feature or impact highlight #3
+
+---
+
+### 🔹 [Project Three](https://github.com/yourhandle/project-three)
+> A short, compelling one-liner about what this project does and the problem it solves.
+
+`Python` `Redis` `TypeScript`
+
+- ✅ Feature or impact highlight #1
+- ✅ Feature or impact highlight #2
+- ✅ Feature or impact highlight #3
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourhandle&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourhandle&layout=compact&theme=github_dark&hide_border=true)
+
+</div>
+
+---
+
+<div align="center">
+
+*Let's build something great together — feel free to reach out!*
+
+</div>
